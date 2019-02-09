@@ -3,10 +3,12 @@
   _ | _
 --------|--------
 Project Name | Terraform Module
-Project Owner | Rok8Ops
+Project Owner | Dale-Kurt Muray
 Provider | Google Cloud Platform
 JIRA | [http://](http://)
 Confluence | [http://](http://)
 Resources | 
 
 ## Overview
+
+## Usage
